@@ -1,11 +1,10 @@
 # Heyo! 👋
-## I'm Caleb, a Junior at the University of Michigan. I like architecting code 📐 and stuff that runs on the cloud 🌥  
+## I'm Caleb, a Senior at the University of Michigan. I like architecting code 📐 and stuff that runs on the cloud 🌥  
 Unfortunately, most of my schoolwork and work as an intern has to be in private repos, but you can check out my contribution history :octocat:  
 [Check me out on LinkedIn](linkedin.com/in/CalebJ-Smith) while you're at it.  
-- I played with Rust 🦀 a lot this summer and really enjoyed it
-- Golang intriques me, so I'm planning on playing with it publicly here in the next little bit and getting some kind of web server up and running in a containerized environment
 
-I'm actively looking for an internship for Summer 2023, so if this got you interested, DM me on LinkedIn and we can talk
+
+I'm actively looking for a full-time position after graduating in May of 2024, so if this got you interested, DM me on LinkedIn and we can talk.
 <!--
 **CalebJ-Smith/CalebJ-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
