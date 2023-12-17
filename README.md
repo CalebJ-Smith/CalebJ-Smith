@@ -1,7 +1,7 @@
 # Heyo! 👋
 ## I'm Caleb, a Senior at the University of Michigan. I like architecting code 📐 and stuff that runs on the cloud 🌥  
 Unfortunately, most of my schoolwork and work as an intern has to be in private repos, but you can check out my contribution history :octocat:  
-[Check me out on LinkedIn](linkedin.com/in/CalebJ-Smith) while you're at it.  
+[Check me out on LinkedIn](https://www.linkedin.com/in/CalebJ-Smith) while you're at it.  
 
 
 I'm actively looking for a full-time position after graduating in May of 2024, so if this got you interested, DM me on LinkedIn and we can talk.
