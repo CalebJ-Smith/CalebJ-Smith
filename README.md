@@ -21,7 +21,7 @@ Might as well [check me out on LinkedIn](https://www.linkedin.com/in/CalebJ-Smit
 - [Joel on Software | Joel Spolsky](https://www.joelonsoftware.com/)
 - [Software Design: Tidy First? | Kent Beck](https://tidyfirst.substack.com/)
 - [Product for Engineers | PostHog](https://newsletter.posthog.com/)
-
+- [Essays | Paul Graham](https://paulgraham.com/articles.html)
 
 
 <!--
