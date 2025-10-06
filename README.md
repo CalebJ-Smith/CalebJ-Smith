@@ -22,6 +22,7 @@ Might as well [check me out on LinkedIn](https://www.linkedin.com/in/CalebJ-Smit
 - [Software Design: Tidy First? | Kent Beck](https://tidyfirst.substack.com/)
 - [Product for Engineers | PostHog](https://newsletter.posthog.com/)
 - [Essays | Paul Graham](https://paulgraham.com/articles.html)
+- [Sean Goedecke](https://www.seangoedecke.com/)
 
 
 <!--
